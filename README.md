@@ -19,8 +19,8 @@ I’m the kind of engineer who loves to **master complex systems from scratch** 
 - 🛰️ **GNSS Jamming Mitigation** — designing digital nulling techniques for single and multi-element receivers
 - 📡 **Antenna Design & Simulation** — UHF, L1-band, and mmWave systems using **HFSS**, **OpenEMS**, and **CST**
 - 📦 **RF Front-End Prototyping** — layout and testing of PCBs for analog and RF systems
-- ⚙️ **RFID Reader System** — complete design and fabrication of a UHF RFID reader gate for warehouse logistics
-- 🎸 **RFIC Design** —  side project(ongoing), just for the love of circuits
+- ⚙️ **RFID Reader System** — complete design and fabrication of a UHF RFID reader gate for warehouse logistics(completed)
+- 🎸 **RFIC Design** —  A new path to explore as an electronic engineering undergrad.
 
 ---
 
@@ -47,7 +47,7 @@ I’m the kind of engineer who loves to **master complex systems from scratch** 
 ## 🧩 Interests
 
 - GNSS jamming/spoofing mitigation
-- mmWave front-end design (20–30 GHz range)
+- mmWave front-end design 
 - Space electronics & satellite systems (ADCS, formation flying)
 - Drone systems & multi-agent coordination
 - RF + AI applications (spectrum sensing, intelligent beamforming)
