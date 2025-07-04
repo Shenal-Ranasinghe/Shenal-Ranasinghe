@@ -32,10 +32,10 @@ I’m the kind of engineer who loves to **master complex systems from scratch** 
 
 ### 📟 Embedded Systems & DSP
 - **C/C++**, **STM32**, **Arduino**, **FPGA basics**
-- Digital beamforming, GNSS acquisition & filtering
+- Digital beamforming(Ongoing Project), GNSS acquisition & filtering(Ongoing Studies)
 
 ### 📡 RF & Microwave
-- Antenna design, LC oscillators, impedance matching
+- Antenna design, RF Front-End design , Array Design
 - S-parameter analysis, PCB trace layout, baluns, filters
 
 ### 🧪 Other
@@ -49,8 +49,8 @@ I’m the kind of engineer who loves to **master complex systems from scratch** 
 - GNSS jamming/spoofing mitigation
 - mmWave front-end design 
 - Space electronics & satellite systems (ADCS, formation flying)
-- Drone systems & multi-agent coordination
-- RF + AI applications (spectrum sensing, intelligent beamforming)
+- RF + ML applications (spectrum sensing, intelligent beamforming)
+- Microwave Networks and Circuits
 
 ---
 
